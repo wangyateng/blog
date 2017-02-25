@@ -10,5 +10,5 @@
   
 * 活跃社区
 
-  * [并发编程网](http://ifeve.com/)
+ * [并发编程网](http://ifeve.com/)
   
