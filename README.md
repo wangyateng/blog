@@ -8,4 +8,7 @@
 
   * [20位活跃在Github上的国内技术大牛](https://github.com/wangyateng/blog/issues/1)
   
-* 其他
+* 活跃社区
+
+  * [并发编程网](http://ifeve.com/)
+  
