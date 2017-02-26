@@ -11,4 +11,8 @@
 * 活跃社区
 
  * [并发编程网](http://ifeve.com/)
+ 
+* 前端开发解决方案
+
+ * [Scrat——webapp模块化开发体系,移动端开发集成解决方案](http://scrat.io/#!/index)
   
